@@ -1,0 +1,21 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "katy Bel",
+      "email": "Katy@email.com",
+      "cpf": "111.111.111-11",
+      "cidade": "Agua Nova "
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Jeferson Queiroga",
+      "email": "Jeferson@escola.com",
+      "cpf": "333.333.333-33",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2022-03-01 "
+    }
+  ]
+}
